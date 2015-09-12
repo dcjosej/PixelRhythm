@@ -1,0 +1,57 @@
+{
+  "notes": [
+  
+  	{
+      "beat": "18",
+      "arrow": "left"
+    }
+	
+	{
+      "beat": "18",
+      "arrow": "down"
+    }
+	
+	{
+      "beat": "20",
+      "arrow": "down"
+    }
+	
+	{
+      "beat": "20",
+      "arrow": "right"
+    }
+  
+	{
+      "beat": "26",
+      "arrow": "left"
+    }
+	
+	{
+      "beat": "28",
+      "arrow": "up"
+    }
+	
+	
+    {
+      "beat": "32",
+      "arrow": "up"
+    }
+	
+	{
+      "beat": "32",
+      "arrow": "down"
+    }
+	
+	{
+      "beat": "36",
+      "arrow": "left"
+    }
+	
+	{
+      "beat": "36",
+      "arrow": "right"
+    }
+	
+  ],
+  "bpm": 128
+}
